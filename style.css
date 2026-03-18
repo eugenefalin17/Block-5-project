@@ -22,14 +22,16 @@ body {
 font-family: TTLakes, sans-serif;
 margin: 0;
 padding: 0;
+width: 100%;
 min-width: 768px;
 max-height: 1024px;
 background-color: #FFFFFF;
 }
 
 .rectangle {
+    width: 100%;
     max-width: 320px;
-    min-height: 100vh;
+    max-height: 1024px;
     background-color: #FFFFFF;
     box-shadow: 16px 0 52px 0 rgba(14, 24, 80, 0.2);
 }
